@@ -1,0 +1,36 @@
+time_id time_detail
+10 Pazartesi 10:00-12:00
+11 Pazartesi 12:00 – 14:00
+12 Pazartesi 14:00 – 16:00     	
+13 Pazartesi 16:00 – 18:00	
+14 Pazartesi 19:00 – 21:00	
+20 Salı 10:00 – 12:00 	
+21 Salı 12:00 – 14:00	
+22 Salı 14:00 – 16:00	
+23 Salı 16:00 – 18:00	
+24 Salı 19:00 – 21:00	
+30 Çarşamba 10:00 – 12:00 	
+31 Çarşamba 12:00 – 14:00	
+32 Çarşamba 14:00 – 16:00	
+33 Çarşamba 16:00 – 18:00	
+34 Çarşamba 19:00 – 21:00	
+40 Perşembe 10:00 – 12:00 	
+41 Perşembe 12:00 – 14:00	
+42 Perşembe 14:00 – 16:00	
+43 Perşembe 16:00 – 18:00	
+44 Perşembe 19:00 – 21:00	
+50 Cuma 10:00 – 12:00 
+51 Cuma 12:00 – 14:00	
+52 Cuma 14:00 – 16:00	
+53 Cuma 16:00 – 18:00	
+54 Cuma 19:00 – 21:00
+60 Cumartesi 09:00 – 11:00 	
+61 Cumartesi 11:00 – 13:00	
+62 Cumartesi 13:00 – 15:00	
+63 Cumartesi 15:00 – 17:00	
+64 Cumartesi 17:00 – 19:00	
+70 Pazar 09:00 – 11:00
+71 Pazar 11:00 – 13:00	
+72 Pazar 13:00 – 15:00	
+73 Pazar 15:00 – 17:00	
+74 Pazar 17:00 – 19:00	
