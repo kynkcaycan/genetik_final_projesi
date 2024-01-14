@@ -1,0 +1,2000 @@
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:73
+Teacher ID: 122
+ Class ID:53
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:31
+Teacher ID: 129
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:61
+Teacher ID: 125
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:41
+Teacher ID: 129
+ Class ID:31
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 101
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:51
+Teacher ID: 122
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:34
+Teacher ID: 117
+ Class ID:64
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:63
+Teacher ID: 114
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:50
+Teacher ID: 128
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:53
+Teacher ID: 130
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:74
+Teacher ID: 130
+ Class ID:62
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:53
+Teacher ID: 117
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:74
+Teacher ID: 130
+ Class ID:62
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:24
+Teacher ID: 107
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:64
+Teacher ID: 110
+ Class ID:61
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:50
+Teacher ID: 122
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:61
+Teacher ID: 125
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:61
+Teacher ID: 125
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:50
+Teacher ID: 122
+ Class ID:52
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 107
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:22
+Teacher ID: 120
+ Class ID:23
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:24
+Teacher ID: 107
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:117
+ Time ID:73
+Teacher ID: 118
+ Class ID:62
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:53
+Teacher ID: 103
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:53
+Teacher ID: 117
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:64
+Teacher ID: 110
+ Class ID:61
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:74
+Teacher ID: 103
+ Class ID:53
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:31
+Teacher ID: 122
+ Class ID:41
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:63
+Teacher ID: 114
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:74
+Teacher ID: 130
+ Class ID:62
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:34
+Teacher ID: 101
+ Class ID:24
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 101
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:23
+Teacher ID: 128
+ Class ID:52
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:52
+Teacher ID: 128
+ Class ID:63
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:61
+Teacher ID: 105
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:53
+Teacher ID: 110
+ Class ID:64
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:44
+Teacher ID: 125
+ Class ID:22
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:50
+Teacher ID: 122
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 101
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:51
+Teacher ID: 122
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 101
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:31
+Teacher ID: 122
+ Class ID:41
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:14
+Teacher ID: 117
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:74
+Teacher ID: 130
+ Class ID:62
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 101
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:53
+Teacher ID: 130
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 101
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:34
+Teacher ID: 101
+ Class ID:24
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:53
+Teacher ID: 117
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:14
+Teacher ID: 117
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:63
+Teacher ID: 114
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:41
+Teacher ID: 129
+ Class ID:31
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:74
+Teacher ID: 130
+ Class ID:62
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:34
+Teacher ID: 101
+ Class ID:24
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:34
+Teacher ID: 101
+ Class ID:24
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:31
+Teacher ID: 129
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:23
+Teacher ID: 128
+ Class ID:52
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:53
+Teacher ID: 103
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:63
+Teacher ID: 114
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:52
+Teacher ID: 128
+ Class ID:63
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:61
+Teacher ID: 105
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:63
+Teacher ID: 114
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:24
+Teacher ID: 107
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:14
+Teacher ID: 117
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:53
+Teacher ID: 117
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:44
+Teacher ID: 125
+ Class ID:22
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:41
+Teacher ID: 129
+ Class ID:31
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:61
+Teacher ID: 125
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:34
+Teacher ID: 101
+ Class ID:24
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:14
+Teacher ID: 117
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:34
+Teacher ID: 117
+ Class ID:64
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:61
+Teacher ID: 105
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:31
+Teacher ID: 122
+ Class ID:41
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:51
+Teacher ID: 122
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:22
+Teacher ID: 120
+ Class ID:23
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:74
+Teacher ID: 130
+ Class ID:62
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 107
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:31
+Teacher ID: 129
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 101
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:41
+Teacher ID: 129
+ Class ID:31
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:44
+Teacher ID: 125
+ Class ID:22
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:50
+Teacher ID: 122
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:24
+Teacher ID: 125
+ Class ID:64
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:31
+Teacher ID: 122
+ Class ID:41
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:23
+Teacher ID: 128
+ Class ID:52
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:64
+Teacher ID: 110
+ Class ID:61
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 101
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:73
+Teacher ID: 122
+ Class ID:53
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:52
+Teacher ID: 128
+ Class ID:63
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:53
+Teacher ID: 130
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:54
+Teacher ID: 111
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:31
+Teacher ID: 122
+ Class ID:41
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 101
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:60
+Teacher ID: 118
+ Class ID:52
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:61
+Teacher ID: 105
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:61
+Teacher ID: 105
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:50
+Teacher ID: 128
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:34
+Teacher ID: 101
+ Class ID:24
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:31
+Teacher ID: 122
+ Class ID:41
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:24
+Teacher ID: 107
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:41
+Teacher ID: 129
+ Class ID:31
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:24
+Teacher ID: 125
+ Class ID:64
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 107
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:24
+Teacher ID: 107
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:31
+Teacher ID: 129
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:64
+Teacher ID: 110
+ Class ID:61
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:74
+Teacher ID: 130
+ Class ID:62
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:41
+Teacher ID: 129
+ Class ID:31
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:53
+Teacher ID: 103
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:53
+Teacher ID: 117
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 101
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:64
+Teacher ID: 117
+ Class ID:61
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:23
+Teacher ID: 128
+ Class ID:52
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 107
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:21
+Teacher ID: 105
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:50
+Teacher ID: 122
+ Class ID:52
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:63
+Teacher ID: 114
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 101
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:41
+Teacher ID: 129
+ Class ID:31
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:53
+Teacher ID: 103
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:53
+Teacher ID: 103
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 101
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 107
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:53
+Teacher ID: 117
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 101
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:41
+Teacher ID: 129
+ Class ID:31
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:50
+Teacher ID: 122
+ Class ID:52
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:51
+Teacher ID: 122
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:50
+Teacher ID: 128
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:50
+Teacher ID: 128
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:44
+Teacher ID: 125
+ Class ID:22
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:73
+Teacher ID: 122
+ Class ID:53
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:61
+Teacher ID: 125
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:61
+Teacher ID: 125
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:23
+Teacher ID: 128
+ Class ID:52
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:61
+Teacher ID: 125
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:34
+Teacher ID: 117
+ Class ID:64
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:31
+Teacher ID: 122
+ Class ID:41
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:60
+Teacher ID: 118
+ Class ID:52
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:50
+Teacher ID: 122
+ Class ID:52
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:41
+Teacher ID: 129
+ Class ID:31
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:61
+Teacher ID: 125
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:24
+Teacher ID: 107
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 101
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:34
+Teacher ID: 117
+ Class ID:64
+Uygunluk Deðeri:2
+Group ID:117
+ Time ID:73
+Teacher ID: 118
+ Class ID:62
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:14
+Teacher ID: 117
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:34
+Teacher ID: 117
+ Class ID:64
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:63
+Teacher ID: 114
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:64
+Teacher ID: 110
+ Class ID:61
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:50
+Teacher ID: 122
+ Class ID:52
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:50
+Teacher ID: 122
+ Class ID:52
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:53
+Teacher ID: 117
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:31
+Teacher ID: 122
+ Class ID:41
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:24
+Teacher ID: 107
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:53
+Teacher ID: 130
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:53
+Teacher ID: 117
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:31
+Teacher ID: 129
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:53
+Teacher ID: 130
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:50
+Teacher ID: 128
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:63
+Teacher ID: 114
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 107
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 101
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:51
+Teacher ID: 122
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:53
+Teacher ID: 117
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:63
+Teacher ID: 114
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:34
+Teacher ID: 101
+ Class ID:24
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:61
+Teacher ID: 125
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:22
+Teacher ID: 120
+ Class ID:23
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:54
+Teacher ID: 117
+ Class ID:44
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:41
+Teacher ID: 129
+ Class ID:31
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:53
+Teacher ID: 117
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:63
+Teacher ID: 114
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:73
+Teacher ID: 122
+ Class ID:53
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 101
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:53
+Teacher ID: 117
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 107
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 101
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:54
+Teacher ID: 117
+ Class ID:44
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:64
+Teacher ID: 110
+ Class ID:61
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:61
+Teacher ID: 125
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:61
+Teacher ID: 125
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:53
+Teacher ID: 117
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:74
+Teacher ID: 130
+ Class ID:62
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:53
+Teacher ID: 103
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:50
+Teacher ID: 128
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:23
+Teacher ID: 128
+ Class ID:52
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:24
+Teacher ID: 125
+ Class ID:64
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:54
+Teacher ID: 117
+ Class ID:44
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:53
+Teacher ID: 110
+ Class ID:64
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:41
+Teacher ID: 129
+ Class ID:31
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:73
+Teacher ID: 122
+ Class ID:53
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:23
+Teacher ID: 128
+ Class ID:52
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:52
+Teacher ID: 128
+ Class ID:63
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:53
+Teacher ID: 130
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:51
+Teacher ID: 122
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:50
+Teacher ID: 122
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 101
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:52
+Teacher ID: 128
+ Class ID:63
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:21
+Teacher ID: 105
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:50
+Teacher ID: 122
+ Class ID:52
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:53
+Teacher ID: 130
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:50
+Teacher ID: 122
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:74
+Teacher ID: 130
+ Class ID:62
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:53
+Teacher ID: 110
+ Class ID:64
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:34
+Teacher ID: 101
+ Class ID:24
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:74
+Teacher ID: 103
+ Class ID:53
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:53
+Teacher ID: 117
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:53
+Teacher ID: 110
+ Class ID:64
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 101
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:24
+Teacher ID: 107
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:34
+Teacher ID: 101
+ Class ID:24
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 101
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:44
+Teacher ID: 125
+ Class ID:22
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:53
+Teacher ID: 130
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:34
+Teacher ID: 117
+ Class ID:64
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:50
+Teacher ID: 122
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:41
+Teacher ID: 129
+ Class ID:31
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:41
+Teacher ID: 129
+ Class ID:31
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:31
+Teacher ID: 122
+ Class ID:41
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:31
+Teacher ID: 129
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 101
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:44
+Teacher ID: 125
+ Class ID:22
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:34
+Teacher ID: 117
+ Class ID:64
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 101
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:63
+Teacher ID: 114
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:34
+Teacher ID: 101
+ Class ID:24
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:52
+Teacher ID: 128
+ Class ID:63
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:53
+Teacher ID: 117
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:23
+Teacher ID: 128
+ Class ID:52
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:50
+Teacher ID: 122
+ Class ID:52
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:61
+Teacher ID: 125
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:24
+Teacher ID: 107
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:53
+Teacher ID: 110
+ Class ID:64
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:24
+Teacher ID: 107
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:53
+Teacher ID: 130
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:24
+Teacher ID: 107
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 101
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:74
+Teacher ID: 130
+ Class ID:62
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:61
+Teacher ID: 105
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:34
+Teacher ID: 117
+ Class ID:64
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 107
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:64
+Teacher ID: 110
+ Class ID:61
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:41
+Teacher ID: 129
+ Class ID:31
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:24
+Teacher ID: 107
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:24
+Teacher ID: 125
+ Class ID:64
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:14
+Teacher ID: 117
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:51
+Teacher ID: 122
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:53
+Teacher ID: 130
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:53
+Teacher ID: 117
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:53
+Teacher ID: 103
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 107
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:53
+Teacher ID: 117
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:53
+Teacher ID: 117
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:34
+Teacher ID: 101
+ Class ID:24
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:53
+Teacher ID: 130
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:41
+Teacher ID: 129
+ Class ID:31
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 101
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:23
+Teacher ID: 128
+ Class ID:52
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:53
+Teacher ID: 117
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 101
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:53
+Teacher ID: 117
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:54
+Teacher ID: 117
+ Class ID:44
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:64
+Teacher ID: 110
+ Class ID:61
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:50
+Teacher ID: 122
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:64
+Teacher ID: 110
+ Class ID:61
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:24
+Teacher ID: 125
+ Class ID:64
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:41
+Teacher ID: 129
+ Class ID:31
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:53
+Teacher ID: 117
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:24
+Teacher ID: 107
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:50
+Teacher ID: 122
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:61
+Teacher ID: 125
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:63
+Teacher ID: 114
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:117
+ Time ID:73
+Teacher ID: 118
+ Class ID:62
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:53
+Teacher ID: 117
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:24
+Teacher ID: 107
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:34
+Teacher ID: 117
+ Class ID:64
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:50
+Teacher ID: 128
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:34
+Teacher ID: 117
+ Class ID:64
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:50
+Teacher ID: 122
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:64
+Teacher ID: 117
+ Class ID:61
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:41
+Teacher ID: 129
+ Class ID:31
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 101
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:50
+Teacher ID: 122
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:21
+Teacher ID: 105
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 101
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:74
+Teacher ID: 130
+ Class ID:62
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:54
+Teacher ID: 117
+ Class ID:44
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:51
+Teacher ID: 122
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:63
+Teacher ID: 114
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:50
+Teacher ID: 128
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:50
+Teacher ID: 122
+ Class ID:52
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:14
+Teacher ID: 117
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:53
+Teacher ID: 103
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:22
+Teacher ID: 120
+ Class ID:23
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:51
+Teacher ID: 122
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:24
+Teacher ID: 107
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:50
+Teacher ID: 128
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:31
+Teacher ID: 122
+ Class ID:41
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:52
+Teacher ID: 120
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:50
+Teacher ID: 122
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:50
+Teacher ID: 122
+ Class ID:34
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:41
+Teacher ID: 129
+ Class ID:31
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:64
+Teacher ID: 110
+ Class ID:61
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 101
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:51
+Teacher ID: 122
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:74
+Teacher ID: 130
+ Class ID:62
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:53
+Teacher ID: 117
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:74
+Teacher ID: 129
+ Class ID:44
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:23
+Teacher ID: 128
+ Class ID:52
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:60
+Teacher ID: 122
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:53
+Teacher ID: 117
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:14
+Teacher ID: 117
+ Class ID:33
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:61
+Teacher ID: 101
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:64
+Teacher ID: 110
+ Class ID:61
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:114
+ Time ID:41
+Teacher ID: 129
+ Class ID:31
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:24
+Teacher ID: 125
+ Class ID:64
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:61
+Teacher ID: 105
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:34
+Teacher ID: 117
+ Class ID:64
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:22
+Teacher ID: 120
+ Class ID:23
+Uygunluk Deðeri:2
+Group ID:108
+ Time ID:63
+Teacher ID: 114
+ Class ID:21
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:52
+Teacher ID: 128
+ Class ID:63
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:64
+Teacher ID: 117
+ Class ID:61
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:52
+Teacher ID: 128
+ Class ID:63
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:41
+Teacher ID: 128
+ Class ID:43
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:51
+Teacher ID: 122
+ Class ID:51
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:50
+Teacher ID: 122
+ Class ID:52
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:61
+Teacher ID: 125
+ Class ID:32
+Uygunluk Deðeri:2
+Group ID:124
+ Time ID:24
+Teacher ID: 125
+ Class ID:64
+Uygunluk Deðeri:2
